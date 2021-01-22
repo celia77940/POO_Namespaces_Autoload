@@ -17,11 +17,11 @@ https://www.youtube.com/watch?v=ooqSwa83jtM&list=PLBq3aRiVuwyx6B9sJip_ZU1lt7jjCw
 ## Architecture du projet 🖱
 
 Dossier Classe :
-Dossier Banque
+Dossier Banque <br>
 - Compte.php
 - CompteCourant.php
 - CompteEpargne.php
-Dossier Client
+Dossier Client <br>
 - Compte.php
 
 Autloader.php <br>
