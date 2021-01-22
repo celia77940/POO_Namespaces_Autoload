@@ -17,15 +17,16 @@ https://www.youtube.com/watch?v=ooqSwa83jtM&list=PLBq3aRiVuwyx6B9sJip_ZU1lt7jjCw
 ## Architecture du projet 🖱
 
 Dossier Classe :
-    Dossier Banque
-      - Compte.php
-      - CompteCourant.php
-      - CompteEpargne.php
-    Dossier Client
-      - Compte.php
-    Autloader.php
-Readme.md
-index.php
+Dossier Banque
+- Compte.php
+- CompteCourant.php
+- CompteEpargne.php
+Dossier Client
+- Compte.php
+
+Autloader.php <br>
+Readme.md <br>
+index.php <br>
 
 
 ## Objectifs ⭕️
